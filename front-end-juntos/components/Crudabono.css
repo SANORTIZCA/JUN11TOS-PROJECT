@@ -1,0 +1,35 @@
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .abono-options {
+    background-color: rgba(247, 247, 247, 0.8);
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .options a {
+    display: block;
+    padding: 10px 0;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .options a:hover {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+  }
+  

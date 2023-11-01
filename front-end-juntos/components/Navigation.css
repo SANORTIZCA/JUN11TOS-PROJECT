@@ -1,0 +1,30 @@
+.navigation {
+    background:#fafafa;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem;
+
+}
+
+.navigation ul {
+    display: flex;
+    gap: 1rem;
+   
+
+}
+
+.navigation ul li{
+    list-style: none;
+}
+
+.navigation ul li:hover {
+    color: #3498db; /* Cambia el color al pasar el cursor */
+  }
+.navigation ul li {
+    transition: color 0.2s; /* Transición suave de color al pasar el cursor */
+  }
+  
+.navigation ul li:hover {
+    color: #3498db; /* Cambia el color al pasar el cursor */
+  }
+    

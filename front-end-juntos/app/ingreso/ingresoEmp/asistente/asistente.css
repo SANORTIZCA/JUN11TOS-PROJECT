@@ -1,0 +1,20 @@
+.container {
+    margin: 20px;
+  }
+
+  
+  .options a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: rgba(247, 247, 247, 0.8);
+  }
+  
+  
+  .consultar-eventos h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }

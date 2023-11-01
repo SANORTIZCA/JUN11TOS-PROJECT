@@ -1,0 +1,78 @@
+/* Estilo para el contenedor principal */
+div {
+  max-width: 350px;
+  margin: 0 auto; /* Centra horizontalmente */
+  margin-top: 20px;
+}
+
+/* Estilo para el encabezado */
+header {
+  background-color: #56768b;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+h2.centrar {
+  text-align: center;
+}
+
+/* Estilo para el formulario */
+.formulario {
+  background-color: #f7f7f7;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  text-align: left; /* Alinea el contenido a la izquierda */
+}
+
+/* Estilo para los campos de entrada y etiquetas */
+.campo {
+  margin-bottom: 10px; /* Puedes ajustar el valor según tus preferencias */
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+select {
+  width: 90%;
+  padding: 8px; /* Puedes ajustar el valor según tus preferencias */
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+/* Estilo para los botones */
+.botones {
+  margin-top: 20px;
+  text-align: center;
+}
+
+input[type="submit"],
+input[type="reset"] {
+  background-color: #56768b;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+/* Estilo para el pie de página */
+footer {
+  margin-top: 20px;
+  background-color: #889096;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}

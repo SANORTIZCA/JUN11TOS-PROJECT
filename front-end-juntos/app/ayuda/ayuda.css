@@ -1,0 +1,29 @@
+
+  .help-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(247, 247, 247, 0.8); /* Fondo semitransparente */
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .question {
+    margin: 20px 0;
+    background-color: #fff; /* Fondo blanco para las preguntas */
+    padding: 20px;
+    border-radius: 5px; /* Añade esquinas redondeadas */
+  }
+  
+  h3 {
+    color: #3498db;
+    font-weight: bold;
+  }
+  
+  p {
+    color: #666;
+  }
+  

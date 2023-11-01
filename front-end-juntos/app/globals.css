@@ -1,0 +1,45 @@
+body {
+  background-image: url('imagen1.jpg');
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #919191;
+  color: #333;
+  background-position: center;
+}
+
+.ticket-venta-container {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(247, 247, 247, 0.7); 
+
+}
+
+
+.comprar-abono-button {
+  display: inline-block;
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.comprar-abono-button:hover {
+  background-color: #2e7ec7;
+}
+
+
+.abonate-text {
+  font-size: 24px;
+  margin-top: 10px;
+  color: #333;
+}
+.fixture-text {
+  text-align: left;
+}
